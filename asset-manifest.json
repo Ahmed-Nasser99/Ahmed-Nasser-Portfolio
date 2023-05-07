@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.528c142c.css",
+    "main.js": "./static/js/main.3ade8a39.js",
+    "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
+    "static/media/e-commerceFull.png": "./static/media/e-commerceFull.6143ebafb52b23e4a337.png",
+    "static/media/ahmed-nasser99.github.io_DevFolio_ (1).png": "./static/media/ahmed-nasser99.github.io_DevFolio_ (1).5abfac0b2a70a7382771.png",
+    "static/media/ahmed-nasser99.github.io_Coffe-Shop_ (1).png": "./static/media/ahmed-nasser99.github.io_Coffe-Shop_ (1).05c5ece2979c651b2db6.png",
+    "static/media/bookStoreF.png": "./static/media/bookStoreF.f4c251673ca8560b6d9f.png",
+    "static/media/ahmed-nasser99.github.io_Nike-Shoes_ (1).png": "./static/media/ahmed-nasser99.github.io_Nike-Shoes_ (1).57d714cae56a5c583d93.png",
+    "static/media/Gaming-Api_ Full.png": "./static/media/Gaming-Api_ Full.1e90c07cfa94df9dcadd.png",
+    "static/media/e-commerce.png": "./static/media/e-commerce.f78a5b196c90f6ba714a.png",
+    "static/media/ahmed-nasser99.github.io_Gaming-Api_.png": "./static/media/ahmed-nasser99.github.io_Gaming-Api_.f0c20667c65bd10f9d51.png",
+    "static/media/ahmed-nasser99.github.io_weather-api_.png": "./static/media/ahmed-nasser99.github.io_weather-api_.d6c836b1ecf97738ac33.png",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/ahmed-nasser99.github.io_Coffe-Shop_.png": "./static/media/ahmed-nasser99.github.io_Coffe-Shop_.d273a7c85ee39f6dd3fd.png",
+    "static/media/ahmed-nasser99.github.io_Nike-Shoes_.png": "./static/media/ahmed-nasser99.github.io_Nike-Shoes_.a43025563cf8ba9f85c8.png",
+    "static/media/ahmed-nasser99.github.io_CRUDS_.png": "./static/media/ahmed-nasser99.github.io_CRUDS_.c73b1a81c917c4240013.png",
+    "static/media/bookstore.png": "./static/media/bookstore.46cd75365c40826d3393.png",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/ahmed-nasser99.github.io_weather-api_ (2).png": "./static/media/ahmed-nasser99.github.io_weather-api_ (2).28ec999ca8d8967f92d1.png",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/ahmed-nasser99.github.io_DevFolio_.png": "./static/media/ahmed-nasser99.github.io_DevFolio_.59ed8ecce5ef21f5c497.png",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/HTML5_logo_and_wordmark.svg.png": "./static/media/HTML5_logo_and_wordmark.svg.c4d9c8dcdf4078875355.png",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/1452px-CSS3_logo_and_wordmark.svg.png": "./static/media/1452px-CSS3_logo_and_wordmark.svg.cd13bf0a8423210549cb.png",
+    "static/media/ahmed-nasser99.github.io_CRUDS_ (1).png": "./static/media/ahmed-nasser99.github.io_CRUDS_ (1).f93d3bb69ef161f06a3f.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "./index.html",
+    "main.528c142c.css.map": "./static/css/main.528c142c.css.map",
+    "main.3ade8a39.js.map": "./static/js/main.3ade8a39.js.map",
+    "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528c142c.css",
+    "static/js/main.3ade8a39.js"
+  ]
+}
